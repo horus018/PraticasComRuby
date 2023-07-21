@@ -24,12 +24,11 @@ end
 
 luffy = OnePiece.new
 luffy.enemies_add
-luffy.beers_add
-
 zoro = OnePiece.new
 zoro.enemies_add
-zoro.beers_add
-
 sanji = OnePiece.new
 sanji.enemies_add
+
+luffy.beers_add
+zoro.beers_add
 sanji.beers_add
